@@ -1,0 +1,23 @@
+{
+  "name": "creating-own-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot created with Telegraf framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "telegraf": "^4.16.3"
+  }
+}
